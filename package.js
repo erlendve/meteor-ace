@@ -107,7 +107,7 @@ Package.on_use(function (api) {
  		'lib/ace/src/mode-r.js',
  		// 'lib/ace/src/worker-json.js',
  		'lib/ace/src/mode-rdoc.js',
- 		'lib/ace/src/worker-php.js',
+ 		// 'lib/ace/src/worker-php.js',
  		'lib/ace/src/mode-rhtml.js',
  		// 'lib/ace/src/worker-xquery.js',
  		'lib/ace/src/mode-ruby.js'

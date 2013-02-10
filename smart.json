@@ -1,8 +1,8 @@
 {
   "name": "ace",
-  "description": "Ace editor repackaged for Meteor",
-  "homepage": "https://github.com/Jay-Oh-eN/meteor-ace",
-  "author": "Jonathan Dinu <jondinu@gmail.com> (http://jdinu.com)",
-  "version": "1.0.0",
-  "git": "https://github.com/Jay-Oh-eN/meteor-ace.git"
+  "description": "Ace editor repackaged for Meteor, with newest ace version",
+  "homepage": "https://github.com/erlendve/meteor-ace",
+  "author": "Erlend Vestad <erlendve@gmail.com> (https://github.com/erlendve)",
+  "version": "1.1.0",
+  "git": "https://github.com/erlendve/meteor-ace.git"
 }
